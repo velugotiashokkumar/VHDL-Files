@@ -1,0 +1,7 @@
+v 3
+file . "DEC_tb.vhdl" "20230408072930.000" "20230408130025.216":
+  entity dec_tb at 1( 0) + 0 on 13;
+  architecture tb of dec_tb at 7( 82) + 0 on 14;
+file . "DEC.vhdl" "20230408072824.000" "20230408130017.984":
+  entity dec at 1( 0) + 0 on 11;
+  architecture behavioural of dec at 9( 151) + 0 on 12;

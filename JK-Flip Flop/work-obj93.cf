@@ -1,0 +1,7 @@
+v 4
+file . "JkFF_tb.vhdl" "f631601c6147bd96f7e1aa947425d57c3876e510" "20231226064939.661":
+  entity jkff_tb at 1( 0) + 0 on 13;
+  architecture tb of jkff_tb at 7( 82) + 0 on 14;
+file . "JkFF.vhdl" "0c3b4dac75823064136239add02df135ea0ec496" "20231226064939.661":
+  entity jkff at 1( 0) + 0 on 11;
+  architecture behavioural of jkff at 8( 140) + 0 on 12;

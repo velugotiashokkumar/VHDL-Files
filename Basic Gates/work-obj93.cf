@@ -1,0 +1,7 @@
+v 4
+file . "BG_tb.vhdl" "ec6fff7128092ff1207588b22b61be7de2fc1a77" "20231226061213.089":
+  entity bg_tb at 1( 0) + 0 on 13;
+  architecture tb of bg_tb at 6( 77) + 0 on 14;
+file . "BG.vhdl" "5dd770e6d6da1bf7ebbbf1eb3d15eb3fcaa91e93" "20231226061213.089":
+  entity bg at 1( 0) + 1 on 11;
+  architecture behavioural of bg at 10( 136) + 0 on 12;
